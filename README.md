@@ -1,14 +1,19 @@
 # Front-end-code-challenge
 
+Step 1 of the Interview process. Follow the instructions below. 
+Please note, you are given 3 days to complete the challenge.
+The purpose of this test is to evaluate your skills as a frontend developer. You will be asked to develop a small application that will be used to manage a list of products. 
+
 # Requirements
-1. Create a  homepage that will list products from the API. 
-2. Add a search bar that can search for movies by title.
+1. Create a homepage that will list products from the API. 
+2. Add a search bar that can search for products by title.
 3. The list should contain links for each product title to navigate to an individual detail page with more info for each product. 
 4. On the detail page,display the product image,the title, description, price, category, rate and count.
-5. The application must be developed using ReactJS.
-6. The application must be responsive and use Material UI.
-7. The application must be developed using React Router.
-8. The application must be developed using React Hooks.
+5. Display all catergories on the homepage, when selected should display all the product of the selected catergory.
+6. The application must be developed using ReactJS.
+7. The application must be responsive and use Material UI.
+8. The application must be developed using React Router.
+9. The application must be developed using React Hooks.
 
 #API End points
 - Get all products (https://fakestoreapi.com/products)
@@ -31,4 +36,9 @@ Fork this repository and  please push the code up to a new private repository. G
 - cephas@hcs.engineering
 - manderat206@gmail.com
 We will review your code and get back to you as soon as possible.
+
+
+We look forward to receiving your submission.
+
+Good Luck
 
