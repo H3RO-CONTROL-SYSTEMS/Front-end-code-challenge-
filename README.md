@@ -29,6 +29,6 @@ We are looking for somone with better understanding of the following:
 Fork this repository and  please push the code up to a new private repository. Give access to the following email addresses for code review:
 - desireirankundawilliams@gmail.com
 - cephas@hcs.engineering
-We will review your code and get back to you as soon as possible. We will not use your code for any other purpose than reviewing your skills. We will not share your code with anyone else.
-  
+- manderat206@gmail.com
+We will review your code and get back to you as soon as possible.
 
